@@ -1,3 +1,5 @@
+
+![logo](https://github.com/Akash-singh2684/Akash-singh2684/blob/main/Teal%20and%20Black%20Modern%20Programmer%20New%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Akash Singh</h1>
 <h3 align="center">Passionate Full-Stack Developer 
 | Building Scalable Web Apps with React, Node.js ,Express.js & MongoDb</h3>
